@@ -28,3 +28,8 @@ start and update
 ./stop.sh
 ```
 
+## Usefull Links
+
+- [Ollama Website](https://ollama.com/)
+- [Open WebUI](https://openwebui.com/)
+
